@@ -22,7 +22,7 @@ The website showcases my skills, projects, and provides contact information in a
 
 ### Pages
 
-#### 1. Home Page (index.html)
+#### 1. Home Page 
  Large heading: "Software Developer"
  Professional introduction text
  Profile image 
