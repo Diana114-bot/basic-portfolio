@@ -48,11 +48,10 @@ Clean, minimalist design with gold links
 
 ### Navigation
 Consistent navigation bar on all pages
-Logo "Zee" on the far left
+Logo 
 Menu links on the far right: Home, Projects, Contact Us
 Active page highlighting
 
----
 
 ## Technologies Used
 
@@ -62,6 +61,3 @@ Active page highlighting
    CSS Grid for card arrangements
  Media queries for responsiveness
 CSS variables for consistent color scheme
-
-
-## 📁 File Structure
